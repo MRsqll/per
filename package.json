@@ -1,0 +1,31 @@
+{
+  "name": "person",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bloom-filter-x": "^1.0.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "iconv-lite": "^0.4.24",
+    "mysql": "^2.16.0",
+    "path": "^0.12.7",
+    "rquest": "^0.1.0",
+    "wallpaper": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRsqll/per.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MRsqll/per/issues"
+  },
+  "homepage": "https://github.com/MRsqll/per#readme",
+  "description": ""
+}
